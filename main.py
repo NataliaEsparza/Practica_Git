@@ -15,3 +15,8 @@ registrar_estudiante("María López")
 print("Lista de estudiantes:")
 for estudiante in estudiantes:
     print(estudiante)
+
+def consultar_estudiantes():
+    print("ESTUDIANTES REGISTRADOS")
+    for estudiante in estudiantes:
+        print(estudiante)

@@ -2,7 +2,7 @@
 Proyecto desarrollado para practicar el uso de Git y GitHub.
 
 ## Autor
-Nombre del estudiante
+Natalia Jacqueline Esparza Rodríguez
 
 ## Descripción
 Sistema básico para registrar estudiantes.
